@@ -31,9 +31,9 @@ This repository contains microcontroller projects and experiments conducted usin
 
 ## Documentation
 The repository also includes the following reference documents:
-- **BMP180.pdf** - Datasheet for the BMP180 digital pressure sensor.
-- **dsPIC Programmers Reference 70157C.pdf** - Reference manual for dsPIC30F microcontrollers.
-- **PIC24FJ128GA204.pdf** - Datasheet for the PIC24FJ128GA204 microcontroller.
+- **[BMP180](docs/BMP180.pdf)** - Datasheet for the BMP180 digital pressure sensor.
+- **[dsPIC Programmers Reference 70157C](docs/dsPIC%20Programmers%20Reference%2070157C.pdf)** - Reference manual for dsPIC30F microcontrollers.
+- **[PIC24FJ128GA204](docs/PIC24FJ128GA204.pdf)** - Datasheet for the PIC24FJ128GA204 microcontroller.
 
 ## Setup Instructions
 1. **Hardware Requirements:**
