@@ -29,6 +29,12 @@ This repository contains microcontroller projects and experiments conducted usin
 - Displayed temperature, static air pressure, and altitude.
 - Implemented real-time data updates from the sensor.
 
+## Documentation
+The repository also includes the following reference documents:
+- **BMP180.pdf** - Datasheet for the BMP180 digital pressure sensor.
+- **dsPIC Programmers Reference 70157C.pdf** - Reference manual for dsPIC30F microcontrollers.
+- **PIC24FJ128GA204.pdf** - Datasheet for the PIC24FJ128GA204 microcontroller.
+
 ## Setup Instructions
 1. **Hardware Requirements:**
    - PIC24F Curiosity Development Board
